@@ -1,0 +1,7 @@
+inet 192.168.81.128
+
+
+
+
+ls -al ~/.ssh
+ssh-keygen -t ed25519 -C "<your_email>@example.com"
